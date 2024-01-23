@@ -1,0 +1,379 @@
+ENTITIES01
+{
+"classname" "info_player_start"
+"origin" "-3584 -1584 -432"
+"targetname" "spawn_2"
+"teamnum" "2"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_player_start"
+"origin" "-3680 -1584 -432"
+"targetname" "spawn_3"
+"teamnum" "2"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_player_start"
+"origin" "-3584 -1536 -432"
+"targetname" "spawn_4"
+"teamnum" "2"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_player_start"
+"origin" "-3680 -1536 -432"
+"targetname" "spawn_5"
+"teamnum" "2"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_player_start"
+"origin" "-3584 -1488 -432"
+"targetname" "spawn_6"
+"teamnum" "2"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_player_start"
+"origin" "-3680 -1488 -432"
+"targetname" "spawn_7"
+"teamnum" "2"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_player_start"
+"origin" "-3584 -1440 -432"
+"targetname" "spawn_8"
+"teamnum" "2"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_player_start"
+"origin" "-3680 -1440 -432"
+"targetname" "spawn_9"
+"teamnum" "2"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_player_start"
+"origin" "-3584 -1392 -432"
+"targetname" "spawn_10"
+"teamnum" "2"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_player_start"
+"origin" "-3680 -1392 -432"
+"targetname" "spawn_11"
+"teamnum" "2"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_player_start"
+"origin" "848 5600 -432"
+"targetname" "spawn_14"
+"teamnum" "3"
+"angle" "180"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_player_start"
+"origin" "944 5600 -432"
+"targetname" "spawn_15"
+"teamnum" "3"
+"angle" "180"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_player_start"
+"origin" "848 5552 -432"
+"targetname" "spawn_16"
+"teamnum" "3"
+"angle" "180"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_player_start"
+"origin" "944 5552 -432"
+"targetname" "spawn_17"
+"teamnum" "3"
+"angle" "180"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_player_start"
+"origin" "848 5504 -432"
+"targetname" "spawn_18"
+"teamnum" "3"
+"angle" "180"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_player_start"
+"origin" "944 5504 -432"
+"targetname" "spawn_19"
+"teamnum" "3"
+"angle" "180"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_player_start"
+"origin" "848 5456 -432"
+"targetname" "spawn_20"
+"teamnum" "3"
+"angle" "180"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_player_start"
+"origin" "944 5456 -432"
+"targetname" "spawn_21"
+"teamnum" "3"
+"angle" "180"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_player_start"
+"origin" "848 5408 -432"
+"targetname" "spawn_12"
+"teamnum" "3"
+"angle" "180"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_player_start"
+"origin" "944 5408 -432"
+"targetname" "spawn_13"
+"teamnum" "3"
+"angle" "180"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "736 4672 -384"
+"teamnum" "-1"
+"angle" "90"
+"angles" "359.2 91.6931 0"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-1040 5024 -239"
+"teamnum" "-1"
+"angle" "180"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-3424 4112 -239"
+"teamnum" "-1"
+"angle" "180"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-3456 4816 -640"
+"teamnum" "-1"
+"angle" "-90"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-672 4672 -624"
+"teamnum" "-1"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-48 3664 -336"
+"teamnum" "-1"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "448 2704 -432"
+"teamnum" "-1"
+"angle" "90"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-3424 -672 -384"
+"teamnum" "-1"
+"angle" "-90"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-1648 -1024 -239"
+"teamnum" "-1"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "736 -112 -239"
+"teamnum" "-1"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "768 -816 -640"
+"teamnum" "-1"
+"angle" "90"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-2016 -672 -624"
+"teamnum" "-1"
+"angle" "180"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-2640 336 -336"
+"teamnum" "-1"
+"angle" "180"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-3136 1296 -432"
+"teamnum" "-1"
+"angle" "-90"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_titan"
+"origin" "-3872 -1504 -640"
+"angle" "90"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_titan"
+"origin" "-3168 64 -640"
+"angle" "90"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_titan"
+"origin" "-1504 -1264 -640"
+"angle" "90"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_titan"
+"origin" "-1504 464 -640"
+"angle" "-90"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_titan"
+"origin" "896 768 -640"
+"angle" "-90"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_titan"
+"origin" "560 -432 -640"
+"angle" "180"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_titan"
+"origin" "1184 5488 -640"
+"angle" "-90"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_titan"
+"origin" "480 3920 -640"
+"angle" "-90"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_titan"
+"origin" "-1184 5248 -640"
+"angle" "-90"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_titan"
+"origin" "-1184 3520 -640"
+"angle" "90"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_titan"
+"origin" "-3584 3216 -640"
+"angle" "90"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_titan"
+"origin" "-3248 4416 -640"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_dropship_start"
+"origin" "-3584 -1472 -432"
+"teamnum" "2"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+{
+"classname" "info_spawnpoint_dropship_start"
+"origin" "768 5504 -432"
+"angle" "180"
+"teamnum" "3"
+"*trigger_bounds_mins" "3.40282e+38 3.40282e+38 3.40282e+38"
+"*trigger_bounds_maxs" "-3.40282e+38 -3.40282e+38 -3.40282e+38"
+}
+ 
