@@ -1,7 +1,7 @@
 {
 	"Name" : "nyami.mp_brick",
 	"Description": "A simple full scale map made by Nyami11. It consists of simple buildings and walls, covered with white brick texture.",
-	"Version": "1.0.0",
+	"Version": "1.0.2",
 	"LoadPriority": 0,
 	"RequiredOnClient": true
 }
